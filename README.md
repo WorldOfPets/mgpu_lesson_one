@@ -361,5 +361,6 @@ print(my_dog)  # Вывод: Dog named Buddy
    ```
 
 3. Создайте объект класса `Book` и выведите его с помощью `print`.
+![aJS4Eva825NCunkU02pFy](https://github.com/user-attachments/assets/a6f23878-e1dd-47a0-9a1f-1f298711b6e8)
 
 ---
